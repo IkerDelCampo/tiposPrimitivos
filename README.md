@@ -1,0 +1,2 @@
+# tiposPrimitivos
+ Max y Min 
